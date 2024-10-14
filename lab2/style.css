@@ -1,0 +1,50 @@
+body {
+	background-image: url(background.gif);
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+#container {
+	background-color: white;
+	border: 10px white solid;
+}
+
+#header {
+	background-color: #A8F0F0;
+	text-align: right;
+}
+
+.entry {
+	border: 5px blue solid;
+	border-radius: 15px;
+	background-color: #E8FBFB;
+	padding: 5px;
+	margin-top: 10px;
+	text-align: justify;
+}
+
+.entry img {
+	float: right;
+}
+
+.date {
+	border: 5px purple solid;
+}
+
+#header h2 {
+	border: 5px orange solid;
+}
+
+.spacer {
+	clear: right;
+}
+
+.date {
+	border-bottom-style: dashed;
+	border-bottom-width: 2px;
+	border-bottom-color: blue;
+}
+
+#header h2 {
+	font-size: 14pt;
+}
