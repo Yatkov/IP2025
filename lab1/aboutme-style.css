@@ -1,0 +1,14 @@
+body {
+	background-color: violet;
+}
+h1,b {
+	color: blue;
+	font-family: "Arial", sans-serif;
+	font-size: 22px;
+	font-weight: bold;
+}
+
+dt {
+	color: red;
+	font-weight: bold;
+}
